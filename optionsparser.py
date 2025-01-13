@@ -4,7 +4,7 @@ import argparse
 def options_parser() -> argparse.ArgumentParser:
     """Return an ArgumentParser object"""
     parser = argparse.ArgumentParser(
-        description="Generate a csv with sample smartsheets data"
+        description="Generate a csv with sample data matching a target schema"
     )
     parser.add_argument("positional_args", nargs="?")
 
