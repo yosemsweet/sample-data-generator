@@ -7,7 +7,6 @@ from pathlib import Path
 
 def main() -> int:
     options = options_parser().parse_args(sys.argv)
-    print(options)
 
     with open(options.schema_file, "r") as schema_file:
         data_generation_schema = json.loads(schema_file.read())

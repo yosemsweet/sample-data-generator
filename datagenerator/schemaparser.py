@@ -22,7 +22,7 @@ schema_validator = {
                 "type": "string",
                 "description": "the type of data - used to identify the faker provider.",
             },
-            "constraints": {"type": "array"},
+            "constraints": {"type": "object"},
         },
     },
 }

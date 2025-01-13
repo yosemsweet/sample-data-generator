@@ -8,8 +8,6 @@ def generate(schema: dict, number_of_rows: int) -> pd.DataFrame:
 
     data = generate_columns(schema.parse(), number_of_rows)
 
-    print(data)
-
     df = pd.DataFrame.from_dict(data=data)
 
     return df

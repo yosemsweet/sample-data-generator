@@ -1,52 +1,46 @@
 [
     {
         "name": "user_id",
-        "type": "string"
+        "type": "uuid4"
     },
     {
         "name": "first_name",
-        "type": "string"
+        "type": "first_name"
     },
     {
         "name": "last_name",
-        "type": "string"
+        "type": "last_name"
     },
     {
         "name": "permission_type",
         "type": "random_element",
-        "constraints": [
-            {
-                "elements": [
-                    "Resourcing Administrator",
-                    "Portfolio Editor",
-                    "People Scheduler",
-                    "Portfolio Reporter",
-                    "Portfolio Viewer",
-                    "Project Editor",
-                    "Contractor"
-                ]
-            }
-        ]
+        "constraints": {
+            "elements": [
+                "Resourcing Administrator",
+                "Portfolio Editor",
+                "People Scheduler",
+                "Portfolio Reporter",
+                "Portfolio Viewer",
+                "Project Editor",
+                "Contractor"
+            ]
+        }
     },
     {
         "name": "license_type",
         "type": "random_element",
-        "constraints": [
-            {
-                "elements": [
-                    "licensed",
-                    "managed_resource"
-                ]
-            }
-        ]
+        "constraints": {
+            "elements": [
+                "licensed",
+                "managed_resource"
+            ]
+        }
     },
     {
         "name": "email",
         "type": "email",
-        "constraints": [
-            {
-                "domain": "businessdomain.com"
-            }
-        ]
+        "constraints": {
+            "domain": "businessdomain.com"
+        }
     }
 ]

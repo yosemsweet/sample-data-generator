@@ -1,101 +1,101 @@
 user_id,first_name,last_name,permission_type,license_type,email
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
-Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+458fbac7-1bfc-425c-a463-a5bf93bda18b,Rebecca,Willis,Portfolio Editor,licensed,hallcheryl@businessdomain.com
+5f1951b1-ba7f-453c-92df-608ff65ea6df,Rebecca,Reed,Portfolio Reporter,managed_resource,david96@businessdomain.com
+c7947f5e-db4c-49b3-a30d-cdd6bc8c90b6,Megan,Hensley,Portfolio Editor,licensed,allisonjulie@businessdomain.com
+e96c0b21-1a36-4937-bb55-1a8bd0af5627,Kim,Moyer,Portfolio Editor,managed_resource,barnettmelanie@businessdomain.com
+21d5076f-1633-466c-963d-a5b824a892c3,John,Jones,Contractor,managed_resource,rmcmillan@businessdomain.com
+f3bbd716-080c-4151-8210-d428cddf449c,Anna,Cook,Project Editor,managed_resource,debramurray@businessdomain.com
+78d8fe78-7d36-459a-be92-d0c490e1f85a,Laura,Snyder,Contractor,managed_resource,phall@businessdomain.com
+7b179b06-1245-40b0-8f93-29083fad40fc,Chad,Garza,Project Editor,managed_resource,fnoble@businessdomain.com
+69996c5a-d89c-4efc-ab65-d0679ff3cce5,Jason,King,People Scheduler,licensed,marvin74@businessdomain.com
+4e550b80-a299-4422-b1e6-79fca4b39227,Jared,Sanchez,Portfolio Viewer,managed_resource,tbell@businessdomain.com
+fe496503-c80b-4f84-9cde-c50c7c707bf6,Samantha,Navarro,Portfolio Viewer,licensed,smalljennifer@businessdomain.com
+51ddedd6-0096-4b72-b891-d46e635dca81,Jennifer,Larsen,Resourcing Administrator,managed_resource,armstrongdominic@businessdomain.com
+4741128b-98d5-41d4-93c8-3176639128ed,Hannah,Murphy,Project Editor,managed_resource,gwilkinson@businessdomain.com
+4b4ccd36-4d74-4704-ae2a-679cc8e76360,Jacob,Martinez,Portfolio Editor,licensed,tracypennington@businessdomain.com
+80cfa257-67d9-42fc-8663-8b2f8c356ae6,Terry,Calderon,People Scheduler,licensed,amanda53@businessdomain.com
+9d582e4d-3f01-4326-8d02-21d4ce87ae66,Jenny,Lewis,Portfolio Editor,managed_resource,owensamy@businessdomain.com
+cfc4dce2-e7b3-40af-afd8-e6f244a8aca8,Deanna,Blake,Portfolio Editor,licensed,andersonjessica@businessdomain.com
+3ba26f13-0d9a-4943-bedc-ee27564677a4,Mark,Cole,Portfolio Editor,managed_resource,carla27@businessdomain.com
+e4facb17-0de0-4b49-95fd-8f04344338ba,Sheri,Chang,Portfolio Viewer,managed_resource,fpierce@businessdomain.com
+a70001f0-012e-4ac9-af10-05688726731e,William,Clark,People Scheduler,managed_resource,christopherflynn@businessdomain.com
+b62918d8-8926-452d-a1a4-50156845e958,Kimberly,Kemp,Portfolio Editor,managed_resource,mitchell23@businessdomain.com
+8a87367d-9f86-4852-a300-003733f39bae,Raymond,Flores,Project Editor,managed_resource,kingsteven@businessdomain.com
+35953705-80e9-4c0a-afc7-56659e4fa3b9,Holly,Wilson,Portfolio Editor,managed_resource,duane67@businessdomain.com
+6174439b-8414-4949-9cf8-1b2424574d6d,Taylor,Stein,Contractor,managed_resource,davidhowell@businessdomain.com
+b120b44f-1ba7-4d69-ac57-dfd9adf56010,Crystal,Winters,People Scheduler,managed_resource,megan82@businessdomain.com
+90f8b822-87aa-4eca-b365-ae6e3fbe1e44,Jennifer,Miller,Portfolio Editor,licensed,matthew06@businessdomain.com
+42d9aa68-1d15-440b-89eb-8afb51a499be,Maria,Bailey,Portfolio Viewer,licensed,kylemaxwell@businessdomain.com
+5c6abd99-597e-4635-9e05-f04d655bf357,Alicia,Lawson,Portfolio Editor,licensed,harriscrystal@businessdomain.com
+2dd82cc0-cbc3-4cad-8f8e-d2fe8eba6a1a,Richard,Banks,Portfolio Viewer,managed_resource,bpetersen@businessdomain.com
+82f293aa-64c9-4dc3-9b3e-c0cfff71a312,Katherine,Fleming,Portfolio Viewer,licensed,olsenkayla@businessdomain.com
+06c6daf2-4e5d-41fc-af39-b4034a73ec88,Candace,Snyder,Project Editor,licensed,keithmoore@businessdomain.com
+eb2c79e3-04aa-41b2-bc5f-4bd6e16f8ae8,Jared,Gates,Contractor,managed_resource,williamschristopher@businessdomain.com
+621c0460-be18-4170-8dbd-8134c0ae2d1b,Hannah,Copeland,Project Editor,licensed,jeffhall@businessdomain.com
+ee45e1c3-5a8b-42b5-bae7-7d1daef5f437,Heidi,Keith,Contractor,licensed,fisherkevin@businessdomain.com
+11c36613-f02d-4a32-92a6-03f6a5418547,Crystal,Wilson,Portfolio Reporter,licensed,fharris@businessdomain.com
+e09d0f50-c861-430c-9802-17fcd7b68554,Mariah,Mann,People Scheduler,managed_resource,josephsanchez@businessdomain.com
+6768f3af-54ef-474c-94f3-69056940fa69,Paul,Benjamin,Portfolio Reporter,licensed,janice13@businessdomain.com
+4fefe57e-c92b-452d-9f3a-8fd5188964b9,Lori,Walter,Portfolio Editor,licensed,leah35@businessdomain.com
+9bdc9247-874b-4bf7-a3bd-f8dff0179a5d,David,Carson,Portfolio Viewer,managed_resource,christopher62@businessdomain.com
+d37b0722-8553-4e4e-ac2b-2b360bac6d7c,Alexis,Ramos,Portfolio Viewer,licensed,davislisa@businessdomain.com
+e0057d2c-6cc1-46e0-8af8-73be0b91784d,Breanna,Singh,Resourcing Administrator,managed_resource,bentleyrandy@businessdomain.com
+63f418a7-8386-4ee6-917a-d5846f9d69e1,Michelle,Stein,Contractor,licensed,thompsonsarah@businessdomain.com
+dd8f7a4a-dea6-40be-a9a3-2a1e1eccedbb,Paul,Cervantes,Portfolio Editor,managed_resource,fmorgan@businessdomain.com
+ab3b7b23-79ce-425b-9275-6bf8fd9bf170,Jesse,Baker,Project Editor,managed_resource,uvincent@businessdomain.com
+b291761d-cbb4-443e-92f2-2b73530654a1,Thomas,Walker,Portfolio Reporter,licensed,andersonedwin@businessdomain.com
+75127909-237b-416c-a0bb-4452bb6b2ddd,Janet,Byrd,Portfolio Reporter,managed_resource,bakerjason@businessdomain.com
+3069bf51-2fdb-4753-9189-040a956786db,Amy,White,Portfolio Editor,licensed,paula54@businessdomain.com
+f3bd0c0d-e968-42ea-b243-78cf390be2f0,Rebecca,Bennett,People Scheduler,managed_resource,qjimenez@businessdomain.com
+ce4d5d3a-06bc-4647-a0a2-a92d71a73d54,Derek,Brock,Project Editor,licensed,melissajohnson@businessdomain.com
+4749319f-f505-4322-aed7-aee89defa7cb,David,Robinson,Portfolio Editor,managed_resource,sheena61@businessdomain.com
+f20b47f5-3b2c-4ee4-b20d-b981c0792a40,Russell,Thompson,Contractor,managed_resource,bhopkins@businessdomain.com
+8d42a5e0-733b-4a75-9df8-64a42e514871,George,Knapp,Contractor,licensed,jamespatterson@businessdomain.com
+b1922c1b-2bbd-4343-9dd0-7e0661595b68,Corey,Boyle,Portfolio Reporter,managed_resource,brownbrian@businessdomain.com
+aacdf541-57e7-4705-8bc4-9d7f91bfe022,Daniel,Chavez,Portfolio Viewer,licensed,mario21@businessdomain.com
+ac4dde1f-b7a4-4bed-aaf2-c8e1c9ec16fc,Jeffrey,Thompson,Project Editor,managed_resource,michael82@businessdomain.com
+6c350c8f-f140-40b0-8b28-04bdd9dab922,Kristina,Green,Contractor,managed_resource,crystal84@businessdomain.com
+081e0b42-5666-45f1-9d32-7037a4189351,James,Boone,Portfolio Editor,licensed,epeck@businessdomain.com
+d233a55b-b881-4117-be13-94f3e3f826ed,Maria,Rasmussen,Portfolio Viewer,managed_resource,mitchelljasmine@businessdomain.com
+03dbf0a1-8d10-470e-8868-e1a3abfffab2,Derrick,Griffin,Contractor,managed_resource,walkermichelle@businessdomain.com
+4257be5f-33bc-49e6-8dd6-89587efc302e,George,Saunders,Resourcing Administrator,licensed,kennethevans@businessdomain.com
+e8a8b672-b581-4573-b4b9-f7a527958005,Gerald,Barnes,Portfolio Viewer,managed_resource,owilliams@businessdomain.com
+576dc323-7561-4bf9-bdc8-e8630df31ecd,Ethan,Lopez,Contractor,managed_resource,robert41@businessdomain.com
+eaadc995-4785-4c4d-829b-f7c53200c0ce,Nancy,Tyler,Portfolio Editor,licensed,kwilliams@businessdomain.com
+bed88796-dff9-433b-b975-b9eb4e255efc,Michael,Sanders,Portfolio Viewer,managed_resource,shannon77@businessdomain.com
+492fd581-dc1b-4110-92ab-2c555c9c916e,Katherine,Miller,Contractor,licensed,coxbrian@businessdomain.com
+b2a67c5d-88a7-4979-9c5b-3c47a556e856,Andrew,Mosley,Contractor,licensed,michaelnichols@businessdomain.com
+a8cd802b-c0eb-4108-9cee-f35c05b2b12a,Michael,Martinez,Contractor,managed_resource,trevorrice@businessdomain.com
+ed033da6-c541-440f-8f26-1bde3c3fb444,Steven,Wiggins,Portfolio Viewer,licensed,bryanerickson@businessdomain.com
+9c957ac8-923e-40fc-8c0b-318ab96c8197,Donald,Martin,People Scheduler,managed_resource,meghanpearson@businessdomain.com
+1a80148f-2509-4fd5-b24a-c5d454e0f100,Kimberly,Baker,Resourcing Administrator,managed_resource,cgomez@businessdomain.com
+412a30b5-2964-4bee-aae0-47dc2ffbb08b,Donald,Stone,Portfolio Viewer,licensed,stephanie43@businessdomain.com
+6b8f7e46-9565-4ca9-9080-e9a334fa8dde,Kenneth,Taylor,Resourcing Administrator,licensed,leemartin@businessdomain.com
+58eb6f63-f71e-47b9-85e0-d748ab49e29f,Vanessa,Jones,People Scheduler,managed_resource,bennettcrystal@businessdomain.com
+b09bfdcf-eabf-47db-b681-63b91c0d93ac,Tyler,Smith,Project Editor,licensed,lawrencelisa@businessdomain.com
+af81c346-e805-4ce0-97ac-46eb276c719d,Hannah,Dixon,Resourcing Administrator,licensed,qrichardson@businessdomain.com
+fbc0ad34-bb6a-48b2-9810-a5472b4a0894,Jennifer,Flores,Portfolio Viewer,managed_resource,pattersoncrystal@businessdomain.com
+ed21fb27-d8e1-4516-b53a-8506e7798e31,Joseph,Reilly,People Scheduler,licensed,angelaclarke@businessdomain.com
+1420100c-afc1-4c58-9a5e-4195474b160f,Warren,Crane,Resourcing Administrator,licensed,matthew84@businessdomain.com
+e0b56898-ae18-4931-9ba1-19144fecca86,Matthew,Conley,Portfolio Reporter,licensed,wsanchez@businessdomain.com
+e96b25ab-a912-46d9-be36-fe1541fcfc72,James,Burton,Project Editor,licensed,kimberly46@businessdomain.com
+c55e5505-762a-47c1-a464-7f1c1ec88aaa,Zachary,Peters,People Scheduler,managed_resource,chadlarson@businessdomain.com
+20981646-09f9-4c32-ad38-4362a07fa029,Robert,Washington,Resourcing Administrator,licensed,hinesalex@businessdomain.com
+86f4fa5c-4691-40d2-a95a-c16d4797cbda,Danny,Myers,Portfolio Viewer,licensed,jorgeoneal@businessdomain.com
+ef9c8dad-64f1-4a5e-9142-28adbebf77ca,Melissa,Matthews,Project Editor,licensed,nsavage@businessdomain.com
+b289afe4-6378-4eef-880b-7e71a0e1fd56,Christopher,Harrison,Portfolio Editor,licensed,katiemorgan@businessdomain.com
+5af0c62e-7093-470d-a915-76bef39bc474,Sean,Cooper,Portfolio Viewer,licensed,rgonzales@businessdomain.com
+ae4902fb-f220-4c11-b954-bc2f7401cee5,Aaron,Conner,Contractor,licensed,khanalison@businessdomain.com
+1c3e70eb-6c7c-446b-afaf-5e459c1b7aac,Melissa,Sims,Portfolio Editor,licensed,perkinslaura@businessdomain.com
+1512bad7-e3e8-4247-b85e-52d540c10da1,Garrett,Decker,Portfolio Reporter,managed_resource,grantanderson@businessdomain.com
+b1a110b6-6f93-4e75-9e1b-db9254dd91a5,Nancy,Parker,People Scheduler,managed_resource,dorothy83@businessdomain.com
+60fe1d3a-6c49-4264-9762-2a3b7e134f53,Robert,Greene,Resourcing Administrator,licensed,watsonshawn@businessdomain.com
+30e810a7-8ebc-465a-a1a8-b835bd3faeef,Anita,Rasmussen,Contractor,managed_resource,morrisdebra@businessdomain.com
+3370ba05-c630-4ce8-897f-3498181c79db,Christopher,Baxter,People Scheduler,licensed,tracy03@businessdomain.com
+61ff6843-6d5d-4170-a0b5-c1e8dd22e0b3,Matthew,Pruitt,Contractor,licensed,austinjennifer@businessdomain.com
+1ed4f144-18b7-4c29-aef7-9b17573c1fef,Andrew,King,People Scheduler,licensed,sreilly@businessdomain.com
+51f4eaf9-0dce-4afd-af81-e37203385bfc,Shane,Craig,Resourcing Administrator,licensed,perkinsleslie@businessdomain.com
+9f4ff7a4-1f0d-4ccc-b1be-21684e6ad156,Kevin,Choi,Contractor,licensed,jenniferlambert@businessdomain.com
+c860002b-2cd2-4153-8fa1-70698332bcb3,Matthew,Aguirre,Resourcing Administrator,managed_resource,hicksmelissa@businessdomain.com
+02d93bff-fabb-4b6f-8312-74b80519df05,William,Smith,Portfolio Viewer,licensed,zdickerson@businessdomain.com
+c95db9d1-168b-433f-87ff-50a1c7ffc390,Stephanie,Morales,Portfolio Viewer,managed_resource,jenkinsnancy@businessdomain.com
