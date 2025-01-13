@@ -1,7 +1,7 @@
 import argparse
 
 
-def options_parser():
+def options_parser() -> argparse.ArgumentParser:
     """Return an ArgumentParser object"""
     parser = argparse.ArgumentParser(
         description="Generate a csv with sample smartsheets data"

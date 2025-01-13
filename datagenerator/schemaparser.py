@@ -2,12 +2,12 @@ import jsonschema
 
 
 class SchemaParser:
-    def __init__(self, schema):
+    def __init__(self, schema: dict):
         self.schema = schema
 
         jsonschema.validate(schema, schema_validator)
 
-    def parse(self):
+    def parse(self) -> dict:
         return self.schema
 
 

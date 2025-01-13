@@ -6,8 +6,10 @@ from pathlib import Path
 
 
 def main() -> int:
+    # Parse out the command line options
     options = options_parser().parse_args(sys.argv)
 
+    # Load the schema file
     with open(options.schema_file, "r") as schema_file:
         data_generation_schema = json.loads(schema_file.read())
 
@@ -15,6 +17,7 @@ def main() -> int:
         print("Invalid schema file")
         return 1
 
+    # Generate the data according to the schema
     generated_data = datagenerator.generate(
         data_generation_schema, options.number_of_rows
     )
