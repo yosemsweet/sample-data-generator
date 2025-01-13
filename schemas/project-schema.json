@@ -1,0 +1,71 @@
+[
+    {
+        "name": "Project ID",
+        "type": "random_element",
+        "constraints": {
+            "elements": [
+                "Project 1",
+                "Project 2",
+                "Project 3",
+                "Project 4"
+            ]
+        }
+    },
+    {
+        "name": "Project Name",
+        "type": "random_element",
+        "constraints": {
+            "elements": [
+                "Our Project 1",
+                "Our Project 2",
+                "Our Project 3",
+                "Our Project 4"
+            ]
+        }
+    },
+    {
+        "name": "Assigned To",
+        "type": "email",
+        "constraints": {
+            "domain": "businessdomain.com"
+        }
+    },
+    {
+        "name": "Status",
+        "type": "random_element",
+        "constraints": {
+            "elements": [
+                "Not Started",
+                "In Progress",
+                "Blocked",
+                "Complete"
+            ]
+        }
+    },
+    {
+        "name": "Start Date",
+        "type": "date"
+    },
+    {
+        "name": "End Date",
+        "type": "date"
+    },
+    {
+        "name": "At Risk",
+        "type": "boolean",
+        "constraints": {
+            "chance_of_getting_true": 15
+        }
+    },
+    {
+        "name": "Modified By",
+        "type": "email",
+        "constraints": {
+            "domain": "businessdomain.com"
+        }
+    },
+    {
+        "name": "Modification Date",
+        "type": "date_time"
+    }
+]

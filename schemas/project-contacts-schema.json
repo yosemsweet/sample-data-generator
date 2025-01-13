@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Project ID",
+        "type": "random_element",
+        "constraints": {
+            "elements": [
+                "Project 1",
+                "Project 2",
+                "Project 3",
+                "Project 4"
+            ]
+        }
+    },
+    {
+        "name": "Emails",
+        "type": "email"
+    },
+    {
+        "name": "Assigned To",
+        "type": "email",
+        "constraints": {
+            "domain": "businessdomain.com"
+        }
+    }
+]
