@@ -1,6 +1,5 @@
 .venv
 .vscode
 .ruff_cache
-launch.json
 data/*.csv
 schemas/*.json
