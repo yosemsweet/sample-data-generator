@@ -1,0 +1,52 @@
+[
+    {
+        "name": "user_id",
+        "type": "string"
+    },
+    {
+        "name": "first_name",
+        "type": "string"
+    },
+    {
+        "name": "last_name",
+        "type": "string"
+    },
+    {
+        "name": "permission_type",
+        "type": "random_element",
+        "constraints": [
+            {
+                "elements": [
+                    "Resourcing Administrator",
+                    "Portfolio Editor",
+                    "People Scheduler",
+                    "Portfolio Reporter",
+                    "Portfolio Viewer",
+                    "Project Editor",
+                    "Contractor"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "license_type",
+        "type": "random_element",
+        "constraints": [
+            {
+                "elements": [
+                    "licensed",
+                    "managed_resource"
+                ]
+            }
+        ]
+    },
+    {
+        "name": "email",
+        "type": "email",
+        "constraints": [
+            {
+                "domain": "businessdomain.com"
+            }
+        ]
+    }
+]
